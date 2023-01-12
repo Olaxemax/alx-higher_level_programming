@@ -4,7 +4,7 @@
  * @head: head of node
  * Return: 0 if not, 1 if is
  */
-int is_palindrome(listint_t **head 
+int is_palindrome(listint_t **head)
 {
   unsigned int len = 1;
   listint_t *temp;
